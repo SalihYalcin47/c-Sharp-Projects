@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SalihYalcin47
-- 👀 I am interested in HTML , CSS , JAVASCRIPT , PHP , C++ and C#
+- 👀 I am interested in HTML , CSS , JAVASCRIPT , PHP , C++ ,SQL ,MYSQL and C#
 - 🌱 I’m c# learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me at joker16131613@gmail.com gmail
